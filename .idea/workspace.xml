@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94bb0bf4-d807-41c5-8391-ee095fdfe66c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XbqrkoUgC2b0S4p3t5iLPjJdfg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wojcs\PycharmProjects\SPF_russia" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wojcs\PycharmProjects\SPF_russia\old" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ver_Codewars">
+    <configuration name="multiprocessing_wrapper (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SPF_russia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocessing_wrapper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="playground" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SPF_russia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playground.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ver_Codewars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SPF_russia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ver_Codewars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for unit_tests.RecursiveSearch_MultiProcessing" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SPF_russia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;unit_tests.RecursiveSearch_MultiProcessing&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in unit_tests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SPF_russia" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unit_tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.multiprocessing_wrapper (1)" />
+      <item itemvalue="Python.ver_Codewars" />
+      <item itemvalue="Python.playground" />
+      <item itemvalue="Python tests.Unittests for unit_tests.RecursiveSearch_MultiProcessing" />
+      <item itemvalue="Python tests.Unittests in unit_tests.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ver_Codewars" />
+        <item itemvalue="Python.playground" />
+        <item itemvalue="Python tests.Unittests in unit_tests.py" />
+        <item itemvalue="Python tests.Unittests for unit_tests.RecursiveSearch_MultiProcessing" />
+        <item itemvalue="Python.multiprocessing_wrapper (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94bb0bf4-d807-41c5-8391-ee095fdfe66c" name="Default Changelist" comment="" />
+      <created>1581325342324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581325342324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582554979369">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1582554979369" />
+    <state x="319" y="245" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582201316322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1922" y="504" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581621213244" />
+    <state x="319" y="245" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1582201316322" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582637870602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1582637870602" />
+    <state x="-1928" y="403" key="#xdebugger.evaluate" timestamp="1581678863382">
+      <screen x="-2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="-1928" y="403" key="#xdebugger.evaluate/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581678863382" />
+    <state width="1281" height="627" key="GridCell.Tab.0.bottom" timestamp="1582642831314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1716" height="414" key="GridCell.Tab.0.bottom/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581688581805" />
+    <state width="772" height="1301" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1581605931403" />
+    <state width="1281" height="627" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582642831314" />
+    <state width="1281" height="627" key="GridCell.Tab.0.center" timestamp="1582642831314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1716" height="414" key="GridCell.Tab.0.center/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581688581805" />
+    <state width="772" height="1301" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1581605931403" />
+    <state width="1281" height="627" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582642831314" />
+    <state width="1281" height="627" key="GridCell.Tab.0.left" timestamp="1582642831314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1716" height="414" key="GridCell.Tab.0.left/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581688581805" />
+    <state width="772" height="1301" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1581605931402" />
+    <state width="1281" height="627" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582642831314" />
+    <state width="1281" height="627" key="GridCell.Tab.0.right" timestamp="1582642831314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1716" height="414" key="GridCell.Tab.0.right/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581688581805" />
+    <state width="772" height="1301" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1581605931403" />
+    <state width="1281" height="627" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582642831314" />
+    <state width="652" height="500" key="GridCell.Tab.1.bottom" timestamp="1582642756731">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1716" height="414" key="GridCell.Tab.1.bottom/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581688581807" />
+    <state width="652" height="500" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582642756731" />
+    <state width="652" height="500" key="GridCell.Tab.1.center" timestamp="1582642756731">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1716" height="414" key="GridCell.Tab.1.center/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581688581806" />
+    <state width="652" height="500" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582642756731" />
+    <state width="652" height="500" key="GridCell.Tab.1.left" timestamp="1582642756731">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1716" height="414" key="GridCell.Tab.1.left/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581688581806" />
+    <state width="652" height="500" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582642756731" />
+    <state width="652" height="500" key="GridCell.Tab.1.right" timestamp="1582642756731">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1716" height="414" key="GridCell.Tab.1.right/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581688581807" />
+    <state width="652" height="500" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582642756731" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1582209694358">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2204" y="0" key="SettingsEditor/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1581597889006" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582209694358" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1582291398184">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1582291398184" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1582704388078">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-1886" y="342" key="com.intellij.ide.util.TipDialog/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581689005622" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.2560.1400@0.0.1280.680" timestamp="1581496084362" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.2560.1400@1920.0.2560.1400" timestamp="1581601035180" />
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582704388078" />
+    <state x="123" y="73" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582295234883">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="-2112" y="437" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581685277643" />
+    <state x="123" y="73" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1582295234883" />
+    <state x="827" y="5" width="448" height="657" key="dock-window-1" timestamp="1582637722846">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="45" y="11" width="1143" height="673" key="dock-window-1/0.0.1280.680/-2560.0.2560.1400@-2560.0.2560.1400" timestamp="1581689032254" />
+    <state x="827" y="5" width="448" height="657" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1582637722846" />
+    <state x="887" y="0" width="407" height="657" key="dock-window-2" timestamp="1582704432556">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="887" y="0" width="407" height="657" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1582704432556" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

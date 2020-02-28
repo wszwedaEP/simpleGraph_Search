@@ -1,0 +1,37 @@
+REKURSJA + BACKTRACKING + LIFO
+
+Ustaw się w punkcie startowym.
+Zainicjalizuj LIFO
+Zainicjalizuj HISTORIA
+
+( w zasadzie to powinno być spróbuj krok w przód, spróbuj krok w tył)
+
+
+Zrób krok w przod:
+    WYBRANA OPCJA = wybierz ostatnią (najbardziej prawą) opcję z LIFO INNER
+    HISTORIA = HISTORIA + WYBRANA OPCJA
+    usun WYBRANA OPCJA z LIFO INNER
+    jesli LIFO INNER pusta:
+        usun ostatni element z LIFO OUTER
+
+    jesli nie dotarłeś do końca lub nie dotarłeś do punktu który już odwiedziłes (w oparciu o HISTORIA):
+        wloz WYBRANA OPCJA do listy LIFO_OUTER (w formie {HISTORIA: [wpC, wpB, wpA]}) (nawet gdy one-way node) (niech sublista też będzie LIFO_INNER)
+        zrob krok w przod
+    jesli dotarles do końca:
+        zapisz HISTORIĘ do FINISHED_PATHS
+        zrob krok w tył
+    jesli dotarłeś do punktu w którym już byłeś:
+        zrób krok w tył
+
+Zrób krok w tył:
+    LAST_CRSS = weź ostatni element z LIFO OUTER
+    HISTORIA = LAST_CRSS.keys()
+    WYBRANA OPCJA = LAST_CRSS.values()[-1]
+    zrób krok w przód
+
+
+try:
+    zrób krok w przód
+except KeyError/IndexError:
+    zwróć FINISHED_PATHS
+

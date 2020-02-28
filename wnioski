@@ -1,0 +1,33 @@
+Jakie wyciagnalem wnioski przy tym zadaniu:
+
+1. Skoro lubisz debug w formie printów, rób printy tak by tworzyły ladny log. Oddzielaj iteracje,
+    pisz w jakiej funkcji wlasnie jestes.
+
+2. Nie bój się tworzyć pomocniczych obiektów - może i zajmują miejsce, ale nieporównywalnie prościej
+   jest zorientować się co się dzieje w środku algorytmu, niż jak operacje nie zapisują żadnych stanów,
+   i dzieją się niemal samopas. Przy zagnieżdżonych pętlach debug będzie drastycznie prostszy.
+
+3. Rekursja. Sporo algorytmów będzie aż prosiło się o wykorzystanie rekursji. Jeśli masz zamiar użyć
+   pętli while, to niech zapali się lampka ostrzegawcza, że być może to czas na rekursję.
+   Szczególnie takie rzeczy jak sudoku, przeszukiwanie grafu...
+3b)Korzystaj z backtrackingu (LIFO)
+
+4. Nie poznałem odpowiedzi na pytanie czy funkcje pomocnicze przechowywane w klasie powinny
+   w funkcji głównej być bezargumentowe (odnoszące się do zamkniętych w klasie zmiennych),
+   czy też w porządku jest zapisywać kod w którym te funkcje pomocnicze jawnie przyjmują argumenty
+    i operują na wewnętrznych zmiennych.
+    Drugie podejście eliminuje też w zasadzie konieczność definiowania outputu funkcji,
+    argumenty globalne  (dla funkcji) zmieniane są w locie.
+
+5. staraj się utrzymywać logikę jak najprostszą, dodając jak najmniej ifów, arbitralnych zasad,
+   nasladowania ludzkiego sposobuu podchodzenia do algorytmu
+   BRUTE FORCE >> pokrętny, arbitralnie skonstruowany algorytm
+
+6. dla algorytmow pracujacych na prawdziwych danych szalenie warto jest poswiecic czas na stworzenie mockowych danych
+   do sprawniejszego developmentu
+
+7. gdy szukasz przykladow bardziej skomplikowanego kodu (np. jak uzywac multiprocessingu),
+   przejrzyj officjalna dokumentacje pythona, tam są naprawde fajne przyklady
+
+
+
