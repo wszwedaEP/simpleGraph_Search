@@ -16,5 +16,3 @@ print ('SHOULD BE {} SOLUTIONS'.format(ground_truth))
 
 
 print('abc'.split(''))
-
-print('git_merge_test')
